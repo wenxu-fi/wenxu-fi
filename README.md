@@ -1,6 +1,6 @@
 # Hi there, I'm Wen Xu 👋
 
-I'm a Data Scientist and Machine Learning Engineer with a PhD in Mathematics. I specialize in developing machine learning models, advanced data analytics, and statistical modeling. My expertise includes natural language processing (NLP), sequential data nanlysis,Bayesian analysis, data visualization, time series analysis, and ethical AI.
+I'm a Data Scientist and Machine Learning Engineer with a PhD in Mathematics. I specialize in developing machine learning models, advanced data analytics, and statistical modeling. My expertise includes natural language processing (NLP), sequential data nanlysis, Bayesian analysis, data visualization, time series analysis, and ethical AI.
 
 ## 🧠 Education
 - **PhD in Mathematics**, University of Joensuu
