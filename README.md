@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Wen Xu 👋
 
-<!--
-**wenxu-fi/wenxu-fi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist and Machine Learning Engineer with a PhD in Mathematics. I specialize in developing machine learning models, advanced data analytics, and statistical modeling. My expertise includes natural language processing (NLP), sequential data nanlysis,Bayesian analysis, data visualization, time series analysis, and ethical AI.
 
-Here are some ideas to get you started:
+## 🧠 Education
+- **PhD in Mathematics**, University of Joensuu
+- **MSc in Mathematics**, University of Nanjing Normal University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- **Data Analysis Researcher**, Tampere University
+- **Machine Learning Researcher**, Tampere University
+
+## 🔧 Skills
+- Programming: Python, R, MATLAB, c++, SQL
+- Tools: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Statsmodels, rjags, R stats
+- Data Visualization: Matplotlib, Seaborn
+
+## 🌍 Projects and Publications
+- Project: Virtual Service Environment-D  (VirpaD), funded by Business Finland
+- Investigate sequential data from IoT sensors installed in workspace.
+- Project: Ethical use of AI (Etairos), funded by the Academy of Finland   
+- Developed fair dimension reduction algorithms to mitigate biases in ML (Published in ICML 2023)
+- Contributions to open-source projects and tutorials on advanced AI techniques
+
+## 📫 Get in Touch
+- [LinkedIn](linkedin.com/in/wen-xu-fi1 )
+
+
+## 🌟 Interests
+- Reading about AI advancements, playing badminton, and baking cat-shaped cakes.
+
